@@ -1,5 +1,5 @@
 ## Simple-Vending-Machine
-Project ini merupakan sistem sederhana dari Vending Machine, di mana user dapat memilih 3 produk yang tersedia oleh sistem. Ketika user memilih diharuskan untuk meng-input uang sesuai nominal yang ditampilkan, jika tidak maka sistem tidak akan memprosesnya.
+Project ini merupakan sistem sederhana dari Vending Machine, di mana user dapat memilih 3 produk yang tersedia oleh sistem. Ketika user memilih diharuskan untuk input uang sesuai nominal yang ditampilkan, jika tidak maka sistem tidak akan memprosesnya.
 
 
 ## Component Diagram
